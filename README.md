@@ -1,4 +1,4 @@
-```markdown
+
 # Django Job Portal
 
 A comprehensive job portal web application built with Django, designed to connect employers with job seekers. Employers can post job listings, manage applications, while job seekers can search and apply for jobs. The project includes user authentication, dashboard management, and responsive UI using Bootstrap.
@@ -119,4 +119,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 For questions or feedback, reach out at [dulagudeta22@gmail.com](mailto:dulagudeta22@gmail.com).
-```
+
